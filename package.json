@@ -1,0 +1,22 @@
+{
+  "name": "Nitro Brute",
+  "version": "2.0.0",
+  "description": "Nitro Brute forcing",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "prompt": "^1.1.0",
+    "randexp": "^0.5.3",
+    "request": "^2.88.2",
+    "socks-proxy-agent": "^6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nitro",
+    "discord"
+  ],
+  "author": "Luci",
+  "license": "ISC"
+}
